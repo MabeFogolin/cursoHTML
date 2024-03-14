@@ -5,4 +5,6 @@
 
   
 <h4 align = 'left'> Agradeço a você por ter chego até aqui 🦾
+
+<h4 align = 'left'> (Aviso: ainda não há responsividade e pretendo incrementar Javascript e React conforme for avançando na formação
 <h4 align = 'center'> 🚧 Conhecimento em construção 🚧
